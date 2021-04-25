@@ -1,0 +1,69 @@
+.nav-item{
+    color:rgb(0, 238, 255);
+}
+.nav-item a:hover{
+    color: lightcoral;
+}
+.nav-link{
+    color:rgb(0, 238, 255);
+}
+.nav-link a:hover{
+    color: lightcoral;
+}
+.navbar-brand{
+    color:mediumpurple;
+    font-weight: bold;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand a:hover{
+    color:aqua;
+    background-color: greenyellow;
+}
+.dropdown-menu{
+    background-image: linear-gradient(to right, rgb(148, 148, 240), aquamarine);
+    color:rgb(0, 238, 255);
+}
+.dropdown-menu a:hover{
+    color:lightcoral;
+    background-image: linear-gradient(to right, rgb(107, 155, 243),rgb(189, 125, 231));
+    background-color:cornflowerblue;
+}
+html, body, .he, #home
+{
+    height:105%;
+}
+#home {
+    background: url(3.jpg)no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h2{
+    color:rgb(159, 224, 181);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+}
+.pt{
+    font-family: 'Times New Roman', Times, serif;
+    color: burlywood;
+    font-size: 150%;
+}
+.cl{
+    color: rgb(91, 100, 99);
+    font-weight: bold;
+    text-align: center;
+}
+.hl{
+    background-image: linear-gradient( rgb(107, 155, 243),rgb(209, 161, 241));
+    background-color:cornflowerblue;
+}
+.hz{
+    background-image: linear-gradient(to bottom right, rgb(107, 216, 243),rgb(226, 247, 188));
+    background-color:cornflowerblue;
+}
+.hi{
+    background-image: linear-gradient( rgb(126, 228, 247),rgb(247, 205, 188));
+    background-color:cornflowerblue;
+}
